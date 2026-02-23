@@ -1,4 +1,5 @@
 use serde::{Deserialize, Serialize};
+use std::str::FromStr;
 
 #[derive(Debug, Serialize, Deserialize, PartialEq, Eq, PartialOrd, Ord, Clone)]
 pub enum Severity {
@@ -7,6 +8,21 @@ pub enum Severity {
     Medium,
     High,
     Critical,
+}
+
+impl FromStr for Severity {
+    type Err = String;
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        match s.to_lowercase().as_str() {
+            "info" => Ok(Severity::Info),
+            "low" => Ok(Severity::Low),
+            "medium" => Ok(Severity::Medium),
+            "high" => Ok(Severity::High),
+            "critical" => Ok(Severity::Critical),
+            _ => Err(format!("Unknown severity: {}", s)),
+        }
+    }
 }
 
 #[derive(Debug, Serialize, Deserialize, Clone)]
@@ -21,8 +37,9 @@ pub struct Finding {
 }
 
 impl Finding {
-    pub fn with_evidence(&self) -> bool {
-        self.evidence.is_some()
+    pub fn with_evidence(mut self, evidence: impl Into<String>) -> Self {
+        self.evidence = Some(evidence.into());
+        self
     }
 
     pub fn is_critical(&self) -> bool {
