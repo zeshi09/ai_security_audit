@@ -1,0 +1,14 @@
+/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/deps/thiserror-c8c8ecb58c92c1ad.d: /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/thiserror-bee597153541ce01/out/private.rs
+
+/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/deps/libthiserror-c8c8ecb58c92c1ad.rlib: /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/thiserror-bee597153541ce01/out/private.rs
+
+/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/deps/libthiserror-c8c8ecb58c92c1ad.rmeta: /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/thiserror-bee597153541ce01/out/private.rs
+
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs:
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs:
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs:
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs:
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs:
+/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/thiserror-bee597153541ce01/out/private.rs:
+
+# env-dep:OUT_DIR=/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/thiserror-bee597153541ce01/out

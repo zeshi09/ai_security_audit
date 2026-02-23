@@ -1,0 +1,14 @@
+/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/deps/serde-116f7235c628bf6f.d: /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/serde-da09e848c62aaaf0/out/private.rs
+
+/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/deps/libserde-116f7235c628bf6f.rlib: /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/serde-da09e848c62aaaf0/out/private.rs
+
+/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/deps/libserde-116f7235c628bf6f.rmeta: /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/serde-da09e848c62aaaf0/out/private.rs
+
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/blackzeshi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/serde-da09e848c62aaaf0/out/private.rs:
+
+# env-dep:OUT_DIR=/home/blackzeshi/Code/Rust/claude2/sentinel/target/debug/build/serde-da09e848c62aaaf0/out
